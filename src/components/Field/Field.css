@@ -1,0 +1,22 @@
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.enemy {
+    background-color: #caffad;
+}
+
+.apple {
+    background-color: #ff4b87;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    box-shadow: 0 0 0 1px #404275
+}
